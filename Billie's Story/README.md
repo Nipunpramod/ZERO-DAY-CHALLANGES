@@ -10,7 +10,7 @@
 
 Before you begin the investigation, watch the documentary detailing the story behind this incident. The video contains crucial context that may serve as your initial "lead."
 
-**[▶️ Watch the Full Documentary on YouTube](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)**
+**[▶️ Watch the Full Documentary on YouTube](https://youtu.be/yNpE7UJTqhw)**
 
 ---
 
