@@ -1,4 +1,8 @@
+![0-DAY](assests/zeroday_logo.png)
+
 # ZERO-DAY CTF Challenges Collection
+
+
 
 This repository contains a set of Capture The Flag (CTF) challenges that I designed for a ZERO-DAY CTF competition organized by SLTC UNIVERSITY. The challenges cover multiple cybersecurity domains and are intended to test participants’ skills in cryptography, reverse engineering, Android analysis, and digital forensics.
 
